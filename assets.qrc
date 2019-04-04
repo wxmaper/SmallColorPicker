@@ -1,0 +1,13 @@
+<RCC>
+    <qresource prefix="/">
+        <file>assets/cursor.png</file>
+        <file>assets/magnifier.png</file>
+        <file>assets/big-cursor.png</file>
+        <file>assets/pick_16.png</file>
+        <file>assets/pick_22.png</file>
+        <file>assets/pick_24.png</file>
+        <file>assets/pick_32.png</file>
+        <file>assets/pick_48.png</file>
+        <file>assets/pick_64.png</file>
+    </qresource>
+</RCC>
